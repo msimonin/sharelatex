@@ -12,8 +12,8 @@ settings = require("settings-sharelatex")
 
 SERVICES = [{
 	name: "web"
-	repo: "https://github.com/sharelatex/web-sharelatex.git"
-	version: "v0.1.4"
+	repo: "git@gitlab.irisa.fr:matthieu.simonin/web-sharelatex.git"
+	version: "inria-0.1.4"
 }, {
 	name: "real-time"
 	repo: "https://github.com/sharelatex/real-time-sharelatex.git"
