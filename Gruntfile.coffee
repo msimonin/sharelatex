@@ -24,7 +24,7 @@ SERVICES = [{
 	version: "v0.1.4"
 }, {
 	name: "clsi"
-	repo: "https://github.com/sharelatex/clsi-sharelatex.git"
+	repo: "git@gitlab.irisa.fr:matthieu.simonin/clsi-sharelatex.git"
 	version: "v0.1.4"
 }, {
 	name: "filestore"
