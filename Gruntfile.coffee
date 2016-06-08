@@ -25,7 +25,7 @@ SERVICES = [{
 }, {
 	name: "clsi"
 	repo: "git@gitlab.irisa.fr:matthieu.simonin/clsi-sharelatex.git"
-	version: "inria-0.2.0"
+	version: "inria-0.2.0-docker"
 }, {
 	name: "filestore"
 	repo: "https://github.com/sharelatex/filestore-sharelatex.git"
