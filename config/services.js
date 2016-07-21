@@ -2,42 +2,42 @@ module.exports =
 
 [{
 	name: "web",
-	repo: "https://github.com/sharelatex/web-sharelatex.git",
-	version: "master"
+	repo: "git@gitlab.irisa.fr:matthieu.simonin/web-sharelatex.git",
+	version: "inria-0.3.10"
 }, {
 	name: "real-time",
 	repo: "https://github.com/sharelatex/real-time-sharelatex.git",
-	version: "master"
+	version: "397cca55f8c84f70e7cd19c5fcc594c361d64e2f"
 }, {
 	name: "document-updater",
 	repo: "https://github.com/sharelatex/document-updater-sharelatex.git",
-	version: "master"
+	version: "75c84e2bd118546c46e9d780fbc74a37476a9995"
 }, {
 	name: "clsi",
-	repo: "https://github.com/sharelatex/clsi-sharelatex.git",
-	version: "master"
+	repo: "git@gitlab.irisa.fr:matthieu.simonin/clsi-sharelatex.git",
+	version: "inria-0.3.10"
 }, {
 	name: "filestore",
 	repo: "https://github.com/sharelatex/filestore-sharelatex.git",
-	version: "master"
+	version: "aad6717044b56b00a36e5eca267e9926f16dec6f"
 }, {
 	name: "track-changes",
 	repo: "https://github.com/sharelatex/track-changes-sharelatex.git",
-	version: "master"
+	version: "8cc07c3c1a6d45e8379b954d6d5d95f8a866e36f"
 }, {
 	name: "docstore",
 	repo: "https://github.com/sharelatex/docstore-sharelatex.git",
-	version: "master"
+	version: "0581c20c014ae3214cc09baaa1165adb8eaa80fe"
 }, {
 	name: "chat",
 	repo: "https://github.com/sharelatex/chat-sharelatex.git",
-	version: "master"
+	version: "176a1d4bae4fcc5d2c6b7c01ead228b8792944ba"
 }, {
 	name: "tags",
 	repo: "https://github.com/sharelatex/tags-sharelatex.git",
-	version: "master"
+	version: "d03050f54082809ea564ea79a848e4102117c519"
 }, {
 	name: "spelling",
 	repo: "https://github.com/sharelatex/spelling-sharelatex.git",
-	version: "master"
+	version: "9a180ab7596dceb9508407b3fea1c5652b03b6ff"
 }]
