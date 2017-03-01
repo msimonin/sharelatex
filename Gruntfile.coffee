@@ -12,7 +12,7 @@ settings = require("settings-sharelatex")
 
 SERVICES = [{
 	name: "web"
-	repo: "git@gitlab.irisa.fr:matthieu.simonin/web-sharelatex.git"
+	repo: "https://gitlab.inria.fr/sed-rennes/web-sharelatex.git"
 	version: "inria-0.2.0"
 }, {
 	name: "real-time"
@@ -24,7 +24,7 @@ SERVICES = [{
 	version: "v0.2.0"
 }, {
 	name: "clsi"
-	repo: "git@gitlab.irisa.fr:matthieu.simonin/clsi-sharelatex.git"
+	repo: "https://gitlab.inria.fr/sed-rennes/clsi-sharelatex.git"
 	version: "inria-0.2.0"
 }, {
 	name: "filestore"
