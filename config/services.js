@@ -1,8 +1,8 @@
-module.exports = 
+module.exports =
 
 [{
 	name: "web",
-	repo: "git@gitlab.irisa.fr:matthieu.simonin/web-sharelatex.git",
+	repo: "https://gitlab.inria.fr/sed-rennes/web-sharelatex",
 	version: "inria-0.3.10"
 }, {
 	name: "real-time",
@@ -14,7 +14,7 @@ module.exports =
 	version: "75c84e2bd118546c46e9d780fbc74a37476a9995"
 }, {
 	name: "clsi",
-	repo: "git@gitlab.irisa.fr:matthieu.simonin/clsi-sharelatex.git",
+	repo: "https://gitlab.inria.fr/sed-rennes/clsi-sharelatex",
 	version: "inria-0.3.10"
 }, {
 	name: "filestore",
