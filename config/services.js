@@ -1,52 +1,52 @@
-module.exports = 
+module.exports =
 
 [{
 	name: "web",
-	repo: "https://github.com/sharelatex/web-sharelatex.git",
-	version: "master"
+	repo: "https://gitlab.inria.fr/sed-rennes/web-sharelatex.git",
+	version: "inria-0.6.3"
 }, {
 	name: "real-time",
 	repo: "https://github.com/sharelatex/real-time-sharelatex.git",
-	version: "master"
+	version: "2525feeb9d412336b05f1225460d1c0a75949904"
 }, {
 	name: "document-updater",
 	repo: "https://github.com/sharelatex/document-updater-sharelatex.git",
-	version: "master"
+	version: "9e080f4ccd6aba1ef83b291463c62eaacc39dd07"
 }, {
 	name: "clsi",
-	repo: "https://github.com/sharelatex/clsi-sharelatex.git",
-	version: "master"
+	repo: "https://gitlab.inria.fr/sed-rennes/clsi-sharelatex.git",
+	version: "inria-0.6.3"
 }, {
 	name: "filestore",
 	repo: "https://github.com/sharelatex/filestore-sharelatex.git",
-	version: "master"
+	version: "896c626561f121103bf8256708112a4fa30bdc54"
 }, {
 	name: "track-changes",
 	repo: "https://github.com/sharelatex/track-changes-sharelatex.git",
-	version: "master"
+	version: "182afb155ee55324949410dbb822fd4de9d66ff"
 }, {
 	name: "docstore",
 	repo: "https://github.com/sharelatex/docstore-sharelatex.git",
-	version: "master"
+	version: "fbb2fa15bf4239db006db742f906554d61a0eac4"
 }, {
 	name: "chat",
 	repo: "https://github.com/sharelatex/chat-sharelatex.git",
-	version: "master"
+	version: "90647603460aa515154462e7b793e9ba0bdd0f11"
 }, {
 	name: "tags",
 	repo: "https://github.com/sharelatex/tags-sharelatex.git",
-	version: "master"
+	version: "59b76599c38ade59cb7c31b821f2b7679e23b8e2"
 }, {
 	name: "spelling",
 	repo: "https://github.com/sharelatex/spelling-sharelatex.git",
-	version: "master"
+	version: "3581a2dee632f0cfd4246f074287454605072013"
 }, {
 	name: "contacts",
 	repo: "https://github.com/sharelatex/contacts-sharelatex.git",
-	version: "master"
+	version: "ef72365271dd15a6bc1ac5dd2ee1ae5658eab174"
 }, {
 	name: "notifications",
 	repo: "https://github.com/sharelatex/notifications-sharelatex.git",
-	version: "master"
+	version: "2b85398c42fecbf84af905bd593a32be307bfe6b"
 }
 ]
