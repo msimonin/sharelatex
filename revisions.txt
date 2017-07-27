@@ -1,0 +1,12 @@
+/var/www/sharelatex/contacts,ef72365271dd15a6bc1ac5dd2ee1ae5658eab174
+/var/www/sharelatex/spelling,3581a2dee632f0cfd4246f074287454605072013
+/var/www/sharelatex/tags,59b76599c38ade59cb7c31b821f2b7679e23b8e2
+/var/www/sharelatex/chat,90647603460aa515154462e7b793e9ba0bdd0f11
+/var/www/sharelatex/docstore,fbb2fa15bf4239db006db742f906554d61a0eac4
+/var/www/sharelatex/real-time,2525feeb9d412336b05f1225460d1c0a75949904
+/var/www/sharelatex/notifications,2b85398c42fecbf84af905bd593a32be307bfe6b
+/var/www/sharelatex/filestore,896c626561f121103bf8256708112a4fa30bdc54
+/var/www/sharelatex/clsi,f94e9989ecc04e4dbe2ac4fe4f376ae4085b152d
+/var/www/sharelatex/document-updater,9e080f4ccd6aba1ef83b291463c62eaacc39dd07
+/var/www/sharelatex/track-changes,182afb155ee55324949410dbb822fd4de9d66fff
+/var/www/sharelatex/web,67bcf55b219f982b8d1c73707772c1b27b240f07
