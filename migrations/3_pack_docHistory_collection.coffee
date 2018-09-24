@@ -224,10 +224,10 @@ PackManager =
 		bulk.find({_id:{$in:ids}}).remove()
 		bulk.execute (err, result) ->
 			if err?
-				logger.error {doc_id: doc_id}, "error adding pack"
+				logger.err {doc_id: doc_id}, "error adding pack"
 				callback(err, result)
 			else if result.nInserted != expect_nInserted or result.nRemoved != expect_nRemoved
-				logger.error {doc_id: doc_id, result}, "unexpected result adding pack"
+				logger.err {doc_id: doc_id, result}, "unexpected result adding pack"
 				callback(new Error(
 					msg: 'unexpected result'
 					expected: {expect_nInserted, expect_nRemoved}
