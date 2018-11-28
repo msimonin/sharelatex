@@ -2,7 +2,7 @@ module.exports =
 
 [{
 	name: "web",
-	repo: "https://gitlab.inria.fr/sed-rennes/web-sharelatex.git",
+	repo: "https://gitlab.inria.fr/sed-rennes/sharelatex/web-sharelatex.git",
   //version: "c27438b8042fc9d9e12136f4e805a690cde7c13d"
   // NOTE(msimonin): There's something bad about git refs here
   // above is the theorical ref obtained using revisions.txt
@@ -19,7 +19,7 @@ module.exports =
 	version: "bb64ab47851b500bd51de6409b97d8edc367eed8"
 }, {
 	name: "clsi",
-	repo: "https://gitlab.inria.fr/sed-rennes/clsi-sharelatex.git",
+	repo: "https://gitlab.inria.fr/sed-rennes/sharelatex/clsi-sharelatex.git",
     //	version: "12c1dc632a7afb090fb87db6d96d9be2e8bfb0cd"
 	version: "inria-1.2.1"
 }, {
