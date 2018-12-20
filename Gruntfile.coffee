@@ -52,6 +52,9 @@ module.exports = (grunt) ->
 		shell:
 			migrate:
 				command: "./node_modules/east/bin/east migrate --adapter east-mongo --url #{settings?.mongo?.url}"
+				options:
+					execOptions:
+						maxBuffer: Infinity
 
 		availabletasks:
 			tasks:
